@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduCredit", "EduCredit\EduCredit.csproj", "{461C96C2-5E28-41B2-9CCD-E57A0F545217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduCredit.Data", "EduCredit.Data\EduCredit.Data.csproj", "{4F14984F-3B03-4DD9-BDF9-3C2B1703938C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{461C96C2-5E28-41B2-9CCD-E57A0F545217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461C96C2-5E28-41B2-9CCD-E57A0F545217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461C96C2-5E28-41B2-9CCD-E57A0F545217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461C96C2-5E28-41B2-9CCD-E57A0F545217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F14984F-3B03-4DD9-BDF9-3C2B1703938C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F14984F-3B03-4DD9-BDF9-3C2B1703938C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F14984F-3B03-4DD9-BDF9-3C2B1703938C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F14984F-3B03-4DD9-BDF9-3C2B1703938C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7AD8C39-9D08-4668-83BB-52274528763D}
+	EndGlobalSection
+EndGlobal

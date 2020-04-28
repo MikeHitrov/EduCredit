@@ -1,0 +1,9 @@
+F:\Misho\Programming\EduCredit\EduCredit\EduCredit.Data\bin\Debug\netcoreapp3.1\EduCredit.Data.deps.json
+F:\Misho\Programming\EduCredit\EduCredit\EduCredit.Data\bin\Debug\netcoreapp3.1\EduCredit.Data.dll
+F:\Misho\Programming\EduCredit\EduCredit\EduCredit.Data\bin\Debug\netcoreapp3.1\EduCredit.Data.pdb
+F:\Misho\Programming\EduCredit\EduCredit\EduCredit.Data\obj\Debug\netcoreapp3.1\EduCredit.Data.csprojAssemblyReference.cache
+F:\Misho\Programming\EduCredit\EduCredit\EduCredit.Data\obj\Debug\netcoreapp3.1\EduCredit.Data.csproj.CoreCompileInputs.cache
+F:\Misho\Programming\EduCredit\EduCredit\EduCredit.Data\obj\Debug\netcoreapp3.1\EduCredit.Data.AssemblyInfoInputs.cache
+F:\Misho\Programming\EduCredit\EduCredit\EduCredit.Data\obj\Debug\netcoreapp3.1\EduCredit.Data.AssemblyInfo.cs
+F:\Misho\Programming\EduCredit\EduCredit\EduCredit.Data\obj\Debug\netcoreapp3.1\EduCredit.Data.dll
+F:\Misho\Programming\EduCredit\EduCredit\EduCredit.Data\obj\Debug\netcoreapp3.1\EduCredit.Data.pdb
